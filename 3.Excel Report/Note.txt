@@ -1,0 +1,7 @@
+# คำสั่งที่ใช้ในการสร้าง script.py to .exe
+1.cd ไปที่ directory ของ script.py
+2.ใช้คำสั่ง pyinstaller --onefile script.py
+
+# เวลาใช้ .exe ที่ได้มา คือ 
+1.เปิด doc ไปที่ .exe 
+2.right click open 

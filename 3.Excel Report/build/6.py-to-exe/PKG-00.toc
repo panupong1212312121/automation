@@ -1,0 +1,536 @@
+('C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+ 'Report\\build\\6.py-to-exe\\6.py-to-exe.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('6.py-to-exe',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\6.py-to-exe.py',
+   'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\Panupong Jindarat\\anaconda3\\envs\\streamlitenv\\python312.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\AppData\\Roaming\\Python\\Python312\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('lxml\\etree.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\etree.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\_elementpath.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\_elementpath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\sax.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\sax.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\objectify.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\objectify.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\diff.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\html\\diff.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\html\\clean.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\html\\clean.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml\\builder.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\builder.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\AppData\\Roaming\\Python\\Python312\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\AppData\\Roaming\\Python\\Python312\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_internal.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_internal.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('yaml\\_yaml.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\yaml\\_yaml.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\_cffi_backend.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp312-win_amd64.pyd',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('zlib.dll',
+   'C:\\Users\\Panupong Jindarat\\anaconda3\\envs\\streamlitenv\\zlib.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-3-x64.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Library\\bin\\libcrypto-3-x64.dll',
+   'BINARY'),
+  ('liblzma.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Library\\bin\\liblzma.dll',
+   'BINARY'),
+  ('LIBBZ2.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Library\\bin\\LIBBZ2.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes312.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\AppData\\Roaming\\Python\\Python312\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libssl-3-x64.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Library\\bin\\libssl-3-x64.dll',
+   'BINARY'),
+  ('ffi.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Library\\bin\\ffi.dll',
+   'BINARY'),
+  ('libexpat.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Library\\bin\\libexpat.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\numpy.libs\\libopenblas64__v0.3.23-293-gc2f4bdbb-gcc_10_3_0-2bde3a66a51006b2b53eb373ff767a3f.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Panupong Jindarat\\anaconda3\\envs\\streamlitenv\\python3.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Users\\Panupong Jindarat\\anaconda3\\envs\\streamlitenv\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Panupong Jindarat\\Documents\\GitHub\\automation\\3.Excel '
+   'Report\\build\\6.py-to-exe\\base_library.zip',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('wheel-0.41.2.dist-info\\RECORD',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\wheel-0.41.2.dist-info\\RECORD',
+   'DATA'),
+  ('wheel-0.41.2.dist-info\\WHEEL',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\wheel-0.41.2.dist-info\\WHEEL',
+   'DATA'),
+  ('wheel-0.41.2.dist-info\\LICENSE.txt',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\wheel-0.41.2.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('wheel-0.41.2.dist-info\\METADATA',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\wheel-0.41.2.dist-info\\METADATA',
+   'DATA'),
+  ('wheel-0.41.2.dist-info\\entry_points.txt',
+   'C:\\Users\\Panupong '
+   'Jindarat\\anaconda3\\envs\\streamlitenv\\Lib\\site-packages\\wheel-0.41.2.dist-info\\entry_points.txt',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

@@ -7,7 +7,7 @@ import time
 opening_line = "Hi!"
 number_of_swipes = 10
 
-path = # paste your chromedriver path here
+path = r'C:\Users\Panupong Jindarat\Desktop\chrome driver\chromedriver-win64'# paste your chromedriver path here
 service = Service(executable_path=path)
 web = 'https://tinder.com/'
 

@@ -2,11 +2,14 @@ import os
 import smtplib
 import ssl
 from email.message import EmailMessage
+import myEnvVal as myEnvVal
+
+myEnvVal.setVar()
 
 # Define email sender and receiver
-email_sender = 'Your email'
+email_sender = 'panupong.intern.work@gmail.com'
 email_password = os.environ.get("EMAIL_PASSWORD")
-email_receiver = 'The email of the receiver'
+email_receiver = 'panupong.intern.work@gmail.com'
 
 # Set the subject and body of the email
 subject = 'Check out my new video!'
